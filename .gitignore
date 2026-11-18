@@ -9,3 +9,4 @@ captures/
 .cxx/
 .mimosa/
 .zcode/
+weights/ncnn/
