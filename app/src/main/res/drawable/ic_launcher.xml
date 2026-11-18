@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 简占位图标：绿色骨架人形 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#30D158"
+        android:pathData="M54,26m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0" />
+    <path
+        android:strokeColor="#30D158"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M54,36 L54,60 M54,44 L40,52 M54,44 L68,52 M54,60 L42,76 M54,60 L66,76" />
+</vector>
